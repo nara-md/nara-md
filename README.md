@@ -20,11 +20,15 @@
 
 <p data-importer="text" align="left">I'm from Rio de Janeiro, Brazil. I'm a cybersecurity student who is currently enjoying front-end development. ✨</p>
 
+
+<h1></h1>
+
 ###
 
 <h3 data-importer="text" align="left">🛠 Language/Tools</h3>
 
 ###
+
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
@@ -39,11 +43,3 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
 </div>
-
-<h1> </h1>
-
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=nara-md&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
